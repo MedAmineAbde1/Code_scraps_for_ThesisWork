@@ -1,3 +1,4 @@
+package Scrap_Notebooks;
 class Robot{
 
     //attributes
