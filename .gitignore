@@ -5,3 +5,8 @@ venv-fresh/
 Scrap_Notebooks/
 
 Thesis_report/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
